@@ -1,4 +1,4 @@
-# NextEmployeeCRUD with MongoDB
+# ReactEmployeeCRUD with MongoDB
 
 **ReactEmployeeCRUD** is a full-stack application for managing employee records, showcasing basic CRUD (Create, Read, Update, Delete) functionality. The project includes a **React.js frontend** and a **Node.js backend** connected to a MongoDB database.
 
